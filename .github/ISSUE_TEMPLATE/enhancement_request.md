@@ -1,7 +1,7 @@
 ---
 name: Enhancement 提议（功能改进）
 about: 说出你的妙点子，让 Editoe 变得更好
-title: [Enhancement]: 
+title: "[Enhancement]: "
 labels: enhancement
 ---
 ## 问题描述
