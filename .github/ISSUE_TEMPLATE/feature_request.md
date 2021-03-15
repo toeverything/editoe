@@ -1,7 +1,8 @@
 ---
 name: Feature 提议
 about: 说出你的妙点子，让 Editoe 变得更好
-
+title: "[FeatureRequest]: "
+labels: feature request
 ---
 
 ### 功能描述
