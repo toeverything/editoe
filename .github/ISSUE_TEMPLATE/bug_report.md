@@ -1,7 +1,8 @@
 ---
 name: Bug 反馈
 about: 反馈 Bug, 一起让产品变得更好。
-title: "[BUG]: "
+title: ""
+labels: bug
 ---
 ### 问题描述
 <!-- 问题 -->
