@@ -1,8 +1,8 @@
 ---
 name: 紧急Bug 反馈
 about: 编辑器无法使用，页面崩溃等等，请使用此模板
-title: "[Bug]: "
-labels: severe bug
+title: ""
+labels: bug, severe bug
 assignees: L-Sun
 ---
 ### 问题描述
@@ -16,4 +16,7 @@ assignees: L-Sun
 ## 复现步骤:
 <!-- 尽可能以列表方式描述 Bug 的复现步骤，推荐使用图片辅助描述 -->
 1. 
-2. 
+
+
+## 相关附件
+<!-- 如果可以，请将敏感信息删除后，上传 -->
